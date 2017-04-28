@@ -1,4 +1,5 @@
 -avacado
+-garlic
 -onion
 -lime juice
 -jalapeno
