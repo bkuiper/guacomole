@@ -1,4 +1,4 @@
-- Combine avacodo with:
+- Combine avacodo(s) with:
 - onion
 - garlic
 - lime juice
